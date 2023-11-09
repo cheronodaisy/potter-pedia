@@ -33,6 +33,32 @@ section {
   display: inline-block;
   border-radius: 5px;
 }
+/* ... Previous styles ... */
+
+.feature {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.feature h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.feature p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.feature img {
+  width: 600px; 
+  height: auto;
+  border: 1px solid #ccc;
+}
+
+/* ... Rest of the styles ... */
+
 
 .feature img {
   width: 100vw;
